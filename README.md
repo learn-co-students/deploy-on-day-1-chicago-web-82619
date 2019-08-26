@@ -1,6 +1,6 @@
 # Deploy on Day One
 
-## Contents
+## Contnts
 
 |Section                            |
 |-----------------------------------|
