@@ -2,7 +2,7 @@
 
 ## Contents
 
-|Section                            |
+|Sectio                            |
 |-----------------------------------|
 |[History](#history)                |
 |[Assignment](#assignment)          |
